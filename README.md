@@ -16,3 +16,16 @@ That's it! If this doesn't work for you, please visit the excellent resources fr
 If you can't find your answers there, feel free to ask us via Twitter (@cloud9ide), [mailing list](groups.google.com/group/cloud9-ide) or IRC (#cloud9ide on freenode).
 
 Happy coding!
+
+# End generic stuff, the real ReadMe starts here.
+
+The files in this project are little more than scraps, but here's a directory:
+- chatServer.js - Probably the most impressive quick demo of Node.js capabilities
+- commandLineDemo.js - The name seems misleading, execution sequence is everything, code order is not.
+- debugExample.js - Not much use on Cloud9, but rather for reference.
+- fetchFromWeb.js - Example of a process that retrieves a web resource repeatedly
+- README.md - umm, you're looking at it.
+- serverExample.js - This is the Hello World of Node.js, the heart of any Node.js hacktastic app (I use the word loosely) begins here.
+- tcpServer.js - Another example that doesn't work on Cloud9, included for reference.
+- urlBuilder.js - Builds a set of urls, demo of parsing querystring parameters.
+
