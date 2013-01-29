@@ -24,6 +24,7 @@ The files in this project are little more than scraps, but here's a directory:
 - commandLineDemo.js - The name seems misleading, execution sequence is everything, code order is not.
 - debugExample.js - Not much use on Cloud9, but rather for reference.
 - fetchFromWeb.js - Example of a process that retrieves a web resource repeatedly
+- JustJS.js - Just JavaScript, samples that are not Node.js dependent.
 - README.md - umm, you're looking at it.
 - serverExample.js - This is the Hello World of Node.js, the heart of any Node.js hacktastic app (I use the word loosely) begins here.
 - tcpServer.js - Another example that doesn't work on Cloud9, included for reference.
